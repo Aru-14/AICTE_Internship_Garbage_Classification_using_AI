@@ -78,7 +78,7 @@ Get the code and enter it in the browser.
 * User uploads a photo of a plastic bottle
 * App displays:
 
- ![Prediction Example](Week2/Output_Images/im2.png)
+ ![Prediction Example](im3.png)
 
 ---
 
